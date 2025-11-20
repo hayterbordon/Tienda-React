@@ -1,3 +1,9 @@
+Participantes:
+1.Gustavo Cabello Santelices
+2.Jose Francisco Serra Ruiz
+3.Aylin Calderón Escobar
+4.Hayter Bordon Delgado
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
